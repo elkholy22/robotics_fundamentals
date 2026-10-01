@@ -3,3 +3,8 @@ install/
 log/
 /pycache/
 *.pyc
+
+# editor and macOS metadata
+._*
+.DS_Store
+*.swp
