@@ -1,0 +1,4 @@
+uint8 number
+uint8[] song
+---
+bool success
